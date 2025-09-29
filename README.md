@@ -4,6 +4,7 @@
 </div>
 
 # 👋 Hi, I’m Paul Muchiri  
+### aka **pmc**
 
 💻 Passionate about **software development, DevOps, and automation**.  
 ⚡ Enthusiastic about **cloud, CI/CD pipelines, and core banking systems**.  
