@@ -44,10 +44,10 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-%20pmc%20%7C%20muchiri-lightgrey?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/your-handle)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/paul-muchiri/)  
+[![Email](https://img.shields.io/badge/Email-%20pmc%20%7C%20muchiri-lightgrey?style=for-the-badge&logo=gmail)](mailto:paul.muchiri43@gmail.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/pmcmuchiri)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/pmcmuchiri)
 ---
 
 <!-- Footer -->
