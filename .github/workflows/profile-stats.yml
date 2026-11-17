@@ -1,0 +1,26 @@
+# Builds the GitHub activity cards on the profile page once a day and commits
+# them to profile-summary-card-output/, so the page does not depend on an
+# outside stats service staying online.
+name: Profile stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"     # 06:00 Nairobi time
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-stats.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
