@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7209B7&center=true&vCenter=true&width=600&lines=Senior+Technical+Support+Engineer;DevOps+%26+SRE+Engineer;Kubernetes+%7C+Docker+%7C+Terraform+%7C+Ansible;Core+Banking+%26+Fintech+Builder;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7209B7&center=true&vCenter=true&width=600&lines=Senior+Technical+Support+Engineer;DevOps+%26+SRE+Engineer;Kubernetes+%7C+Docker+%7C+Terraform+%7C+Ansible;Core+Banking+%26+Fintech+Builder;Co-founder+of+vendoraa.store;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,6 +22,7 @@ class Paul:
     experience = "6+ years in tech | 3+ years DevOps & SRE"
     focus      = ["DevOps", "Core Banking", "Fintech", "Cloud Infrastructure"]
     stack      = ["Kubernetes", "Docker", "Terraform", "Ansible", "CI/CD", "Python"]
+    building   = ["vendoraa.store", "joviellemuigai.com"]
     learning   = ["AWS", "GCP", "Distributed Systems", "SRE Practices"]
     fun_fact   = "Gunner for life — Arsenal FC ⚽🔴⚪"
 ```
@@ -57,6 +58,9 @@ class Paul:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" title="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" title="Ansible"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" title="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" title="nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" title="Cloudflare"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" title="Prometheus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" title="Grafana"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" title="AWS"/>
@@ -65,8 +69,11 @@ class Paul:
 **Databases & Storage**
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
@@ -78,10 +85,12 @@ class Paul:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| 🛍️ [**Vendora**](https://vendoraa.store) | Live marketplace where small Kenyan businesses rent their own online shop and buyers pay the seller's M-Pesa directly. Subscriptions with a free tier, M-Pesa payment matching, WhatsApp and SMS order alerts, campaigns and seller analytics. Nightly off-site backups and uptime checks. I co-founded it and built it end to end | Python · FastAPI · Jinja2 · SQLite · Vanilla JS · pytest · GitHub Actions · Render · Cloudflare |
+| 🕊️ [**Memorial Website**](https://joviellemuigai.com) | Family memorial site with a private family admin area, timeline, family tree, gallery, videos and tributes, photo uploads with location data stripped, and a Claude API chat feature with usage limits | Python · FastAPI · SQLite · Vanilla JS · Docker · Render · Claude API |
 | 🏦 [**Sacco Dashboard**](https://github.com/pmc-muchiri/SaccoDashboard) | Full-stack member management system for Savings & Credit Cooperatives — loans, savings, transactions, departments | FastAPI · React · PostgreSQL · Docker |
 | 💳 [**E-Wallet System**](https://github.com/pmc-muchiri) | Loyalty points & multi-gateway payments — Stripe, PayPal, M-Pesa, Airtel Money | Node.js · MySQL |
-| 🗄️ [**Database Archiving System**](https://github.com/pmc-muchiri) | Python-based application automating database archiving and reporting, eliminating manual processes for core banking systems | Python · PostgreSQL · Tkinter |
-| 🚀 [**Internal Onboarding Platform**](https://github.com/pmc-muchiri) | End-to-end employee onboarding platform streamlining HR and technical onboarding across the organization | FastAPI · React · Docker |
+| 🗄️ [**DBOps (Archivio)**](https://github.com/pmc-muchiri) | Automates SQL Server archiving for PROFITS core banking: partition switching through staging and archive databases, row-count validation and reports, plus a database operations workspace. Cut manual archiving work by about 80% | Python · FastAPI · SQL Server · Nuitka · Inno Setup |
+| 🚀 [**LearnHub**](https://github.com/pmc-muchiri) | Internal training and onboarding platform with courses, assessments, assignments and completion certificates | FastAPI · MySQL · Docker · nginx |
 | 🏛️ [**Core Banking Automations**](https://github.com/pmc-muchiri) | Automated database maintenance, preventive monitoring & alerting for core banking systems | Python · Shell · Prometheus |
 
 ---
@@ -89,6 +98,14 @@ class Paul:
 ## 💼 Professional Experience
 
 ```
+🛍️ Vendora Digital StoreFront (vendoraa.store)
+   Co-founder and Lead Engineer · Oct 2026 to present
+
+   ✅ Built and run a multi-tenant marketplace with M-Pesa payments
+   ✅ WhatsApp Cloud API and SMS order alerts
+   ✅ Render + Cloudflare, nightly backups to R2, uptime checks in GitHub Actions
+   ✅ 97 automated tests (pytest)
+
 🏢 Relational                          
    Senior Technical Support Engineer   
    Nairobi, Kenya                      
